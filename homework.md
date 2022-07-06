@@ -35,7 +35,7 @@ Describing the presentation of Web pages, including colors, layout, and fonts
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-h1 * {
+h1  {
 
 }
 ```
@@ -57,6 +57,7 @@ Tracking changes in the files, coordinating work among programmers collaborative
 What happens when you `fork` a repository?
 
 You copy it
+Fork is copy of the repository where we can make changes.
 
 ## Question 10 
 
@@ -86,7 +87,7 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code and collaborate with other developers.
+is a website that we can use Git.
 
 ## Question 15
 
